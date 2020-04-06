@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Write a short comment describing this function.
 
 # This fuction is used to calculate the value of inverse matrix
 
